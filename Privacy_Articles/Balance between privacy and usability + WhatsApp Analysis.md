@@ -42,19 +42,19 @@ I've gone through the entire privacy policy document by whatsapp. Let me show yo
 
 Let us look at the information they collect first
 
-Image1
+![WhatsApp_Image_1](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_1.png?raw=true)
 
 You provide us the phone numbers in your mobile address book on a "regular basis". Good. So they have access to ALL of your contacts (yes, even the ones who are not on WhatsApp)... do i need to say anything further?
 
-Image2
+![WhatsApp_Image_2](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_2.png?raw=true)
 
 This is super awesome. All the photos you sent, the videos, are stored on WhatsApp servers despite them telling they don't because they "may".  The very way in which they explain this is.. not clear. Which means.. they are beating around the bush.
 
-Image3
+![WhatsApp_Image_3](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_3.png?raw=true)
 
 "may". "May" do this. "May" do that. Anyways, it is clear here that they are processing all your contacts to "help" your organize how you communicate with others. Can't we do that ourselves? Just read it again. It is super super fishy. Like every other policy above.
 
-Image4
+![WhatsApp_Image_4](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_4.png?raw=true)
 
 I don't really need to explain any of these but
 
@@ -63,11 +63,11 @@ I don't really need to explain any of these but
 - Your entire list of device information is collected. OS, IP address, LOCATION DATA (a no-brainer).
 - They try to tell that we collect location data only when you share it but the moment your location is on, they are collecting it. No doubt about it.
 
-Image5
+![WhatsApp_Image_5](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_5.png?raw=true)
 
 Come on. Anyone who has your phone number in their number book is sending information about you to whatsapp. Funny thing is.. they're talking like "you poke him in a similar way he pokes you".
 
-Image6
+![WhatsApp_Image_6](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_6.png?raw=true)
 
 Don't trust their "third party providers" because they do not mention their name. Further, if they say "may" don't trust it. Your data IS being shared with third party providers to form a profile of you which may or may not in the future (don't trust me when I say may) to target you based on advertisments and what not.
 
@@ -77,15 +77,15 @@ The gist is this. Whatsapp is doing shady stuff. No doubt about it.
 
 Read the entire thing. I can go on typing about it on and on and even give a talk for an hour and a half about the document and how shady it is. The article will become way too long if i keep taking screenshots and sharing my views on it but there is more. And i will do so. See this - 
 
-Image7
+![WhatsApp_Image_7](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_7.png?raw=true)
 
 It is pretty clear what they are saying.
 
-Image8
+![WhatsApp_Image_8](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_8.png?raw=true)
 
 Ahh, finally they mention about the ads and relevant offers. It goes like this - you use whatsapp - they anaylze that information and push to facebook - and then use that to show you relevant ads.
 
-Image9
+![WhatsApp_Image_9](https://github.com/r1yaz/articles/blob/main/Privacy_Articles/metadata/WhatsApp_Image_9.png?raw=true)
 
 All your data is being shared with the above companies and even more which are not listed and are named as third parties.
 
